@@ -1,0 +1,45 @@
+CREATE TABLE [dbo].[Usuarios] (
+    [Id_usuario] INT          IDENTITY (1, 1) NOT NULL,
+    [Nome]       VARCHAR (50) NOT NULL,
+    [CPF]        CHAR (14)    NOT NULL,
+    [Email]      VARCHAR (50) NOT NULL,
+    [Celular]    CHAR (14)    NOT NULL,
+    [Senha]      VARCHAR (15) NOT NULL,
+    PRIMARY KEY CLUSTERED ([Id_usuario] ASC),
+    UNIQUE NONCLUSTERED ([Email] ASC),
+    UNIQUE NONCLUSTERED ([CPF] ASC),
+    UNIQUE NONCLUSTERED ([Celular] ASC)
+);
+
+CREATE TABLE [dbo].[Pix] (
+    [Id_pix]           INT             IDENTITY (1, 1) NOT NULL,
+    [data_pix]         DATETIME        NOT NULL,
+    [valor]            DECIMAL (10, 2) NOT NULL,
+    [id_conta_origem]  INT             NULL,
+    [id_conta_destino] INT             NULL,
+    PRIMARY KEY CLUSTERED ([Id_pix] ASC),
+    FOREIGN KEY ([id_conta_origem]) REFERENCES [dbo].[Contas] ([Id_conta]),
+    FOREIGN KEY ([id_conta_destino]) REFERENCES [dbo].[Contas] ([Id_conta])
+);
+
+CREATE TABLE [dbo].[Contas] (
+    [Id_conta]      INT             IDENTITY (1, 1) NOT NULL,
+    [numero_conta]  VARCHAR (20)    NOT NULL,
+    [saldo]         DECIMAL (10, 2) NOT NULL,
+    [data_abertura] DATE            NOT NULL,
+    [id_usuario]    INT             NULL,
+    PRIMARY KEY CLUSTERED ([Id_conta] ASC),
+    UNIQUE NONCLUSTERED ([numero_conta] ASC),
+    FOREIGN KEY ([id_usuario]) REFERENCES [dbo].[Usuarios] ([Id_usuario])
+);
+
+CREATE TABLE [dbo].[Chaves_pix] (
+    [Id_chave]    INT          IDENTITY (1, 1) NOT NULL,
+    [cpf_chave]   CHAR (14)    NULL,
+    [email_chave] VARCHAR (50) NULL,
+    [cel_chave]   CHAR (14)    NULL,
+    [id_conta]    INT          NULL,
+    PRIMARY KEY CLUSTERED ([Id_chave] ASC),
+    FOREIGN KEY ([id_conta]) REFERENCES [dbo].[Contas] ([Id_conta])
+);
+

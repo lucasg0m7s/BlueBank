@@ -1,0 +1,140 @@
+C:\Users\lucas\source\repos\BlueBank\BlueBank\bin\Debug\BlueBank.exe.config
+C:\Users\lucas\source\repos\BlueBank\BlueBank\bin\Debug\BlueBank.exe
+C:\Users\lucas\source\repos\BlueBank\BlueBank\bin\Debug\BlueBank.pdb
+C:\Users\lucas\source\repos\BlueBank\BlueBank\obj\Debug\BlueBank.csproj.AssemblyReference.cache
+C:\Users\lucas\source\repos\BlueBank\BlueBank\obj\Debug\BlueBank.csproj.SuggestedBindingRedirects.cache
+C:\Users\lucas\source\repos\BlueBank\BlueBank\obj\Debug\BlueBank.Apresentacao.BemVindo.resources
+C:\Users\lucas\source\repos\BlueBank\BlueBank\obj\Debug\BlueBank.Apresentacao.Cadastro.resources
+C:\Users\lucas\source\repos\BlueBank\BlueBank\obj\Debug\BlueBank.Form1.resources
+C:\Users\lucas\source\repos\BlueBank\BlueBank\obj\Debug\BlueBank.Properties.Resources.resources
+C:\Users\lucas\source\repos\BlueBank\BlueBank\obj\Debug\BlueBank.csproj.GenerateResource.cache
+C:\Users\lucas\source\repos\BlueBank\BlueBank\obj\Debug\BlueBank.csproj.CoreCompileInputs.cache
+C:\Users\lucas\source\repos\BlueBank\BlueBank\obj\Debug\BlueBank.exe
+C:\Users\lucas\source\repos\BlueBank\BlueBank\obj\Debug\BlueBank.pdb
+D:\BlueBank - Copia\BlueBank\bin\Debug\BlueBank.exe.config
+D:\BlueBank - Copia\BlueBank\bin\Debug\BlueBank.exe
+D:\BlueBank - Copia\BlueBank\bin\Debug\BlueBank.pdb
+D:\BlueBank - Copia\BlueBank\obj\Debug\BlueBank.csproj.AssemblyReference.cache
+D:\BlueBank - Copia\BlueBank\obj\Debug\BlueBank.csproj.SuggestedBindingRedirects.cache
+D:\BlueBank - Copia\BlueBank\obj\Debug\BlueBank.Apresentacao.BemVindo.resources
+D:\BlueBank - Copia\BlueBank\obj\Debug\BlueBank.Apresentacao.Cadastro.resources
+D:\BlueBank - Copia\BlueBank\obj\Debug\BlueBank.Form1.resources
+D:\BlueBank - Copia\BlueBank\obj\Debug\BlueBank.Properties.Resources.resources
+D:\BlueBank - Copia\BlueBank\obj\Debug\BlueBank.csproj.GenerateResource.cache
+D:\BlueBank - Copia\BlueBank\obj\Debug\BlueBank.csproj.CoreCompileInputs.cache
+D:\BlueBank - Copia\BlueBank\obj\Debug\BlueBank.exe
+D:\BlueBank - Copia\BlueBank\obj\Debug\BlueBank.pdb
+C:\Users\lucas\Documents\BlueBank - Copia\BlueBank\bin\Debug\BlueBank.exe.config
+C:\Users\lucas\Documents\BlueBank - Copia\BlueBank\bin\Debug\BlueBank.exe
+C:\Users\lucas\Documents\BlueBank - Copia\BlueBank\bin\Debug\BlueBank.pdb
+C:\Users\lucas\Documents\BlueBank - Copia\BlueBank\obj\Debug\BlueBank.csproj.AssemblyReference.cache
+C:\Users\lucas\Documents\BlueBank - Copia\BlueBank\obj\Debug\BlueBank.csproj.SuggestedBindingRedirects.cache
+C:\Users\lucas\Documents\BlueBank - Copia\BlueBank\obj\Debug\BlueBank.Apresentacao.BemVindo.resources
+C:\Users\lucas\Documents\BlueBank - Copia\BlueBank\obj\Debug\BlueBank.Apresentacao.Cadastro.resources
+C:\Users\lucas\Documents\BlueBank - Copia\BlueBank\obj\Debug\BlueBank.Form1.resources
+C:\Users\lucas\Documents\BlueBank - Copia\BlueBank\obj\Debug\BlueBank.Properties.Resources.resources
+C:\Users\lucas\Documents\BlueBank - Copia\BlueBank\obj\Debug\BlueBank.csproj.GenerateResource.cache
+C:\Users\lucas\Documents\BlueBank - Copia\BlueBank\obj\Debug\BlueBank.csproj.CoreCompileInputs.cache
+C:\Users\lucas\Documents\BlueBank - Copia\BlueBank\obj\Debug\BlueBank.exe
+C:\Users\lucas\Documents\BlueBank - Copia\BlueBank\obj\Debug\BlueBank.pdb
+C:\Users\lucas\Documents\BlueBank - Copia\BlueBank\obj\Debug\BlueBank.Apresentacao.Pix.resources
+C:\Users\lucas\Documents\BlueBank - Copia\BlueBank\obj\Debug\BlueBank.Apresentacao.AreaPix.resources
+C:\Users\lucas\Documents\BlueBank - Copia\BlueBank\obj\Debug\BlueBank.Apresentacao.Chaves.resources
+C:\Users\lucas\Documents\BlueBank - Copia\BlueBank\obj\Debug\BlueBank.Apresentacao.ExibirChaves.resources
+C:\Users\187262022\Documents\BlueBank - Copia\BlueBank\bin\Debug\BlueBank.exe.config
+C:\Users\187262022\Documents\BlueBank - Copia\BlueBank\bin\Debug\BlueBank.exe
+C:\Users\187262022\Documents\BlueBank - Copia\BlueBank\bin\Debug\BlueBank.pdb
+C:\Users\187262022\Documents\BlueBank - Copia\BlueBank\obj\Debug\BlueBank.csproj.AssemblyReference.cache
+C:\Users\187262022\Documents\BlueBank - Copia\BlueBank\obj\Debug\BlueBank.csproj.SuggestedBindingRedirects.cache
+C:\Users\187262022\Documents\BlueBank - Copia\BlueBank\obj\Debug\BlueBank.Apresentacao.BemVindo.resources
+C:\Users\187262022\Documents\BlueBank - Copia\BlueBank\obj\Debug\BlueBank.Apresentacao.Cadastro.resources
+C:\Users\187262022\Documents\BlueBank - Copia\BlueBank\obj\Debug\BlueBank.Apresentacao.Chaves.resources
+C:\Users\187262022\Documents\BlueBank - Copia\BlueBank\obj\Debug\BlueBank.Apresentacao.ExibirChaves.resources
+C:\Users\187262022\Documents\BlueBank - Copia\BlueBank\obj\Debug\BlueBank.Form1.resources
+C:\Users\187262022\Documents\BlueBank - Copia\BlueBank\obj\Debug\BlueBank.Apresentacao.AreaPix.resources
+C:\Users\187262022\Documents\BlueBank - Copia\BlueBank\obj\Debug\BlueBank.Apresentacao.Pix.resources
+C:\Users\187262022\Documents\BlueBank - Copia\BlueBank\obj\Debug\BlueBank.Properties.Resources.resources
+C:\Users\187262022\Documents\BlueBank - Copia\BlueBank\obj\Debug\BlueBank.csproj.GenerateResource.cache
+C:\Users\187262022\Documents\BlueBank - Copia\BlueBank\obj\Debug\BlueBank.csproj.CoreCompileInputs.cache
+C:\Users\187262022\Documents\BlueBank - Copia\BlueBank\obj\Debug\BlueBank.exe
+C:\Users\187262022\Documents\BlueBank - Copia\BlueBank\obj\Debug\BlueBank.pdb
+F:\BlueBank - Copia\BlueBank\bin\Debug\BlueBank.exe.config
+F:\BlueBank - Copia\BlueBank\bin\Debug\BlueBank.exe
+F:\BlueBank - Copia\BlueBank\bin\Debug\BlueBank.pdb
+F:\BlueBank - Copia\BlueBank\obj\Debug\BlueBank.csproj.AssemblyReference.cache
+F:\BlueBank - Copia\BlueBank\obj\Debug\BlueBank.csproj.SuggestedBindingRedirects.cache
+F:\BlueBank - Copia\BlueBank\obj\Debug\BlueBank.Apresentacao.BemVindo.resources
+F:\BlueBank - Copia\BlueBank\obj\Debug\BlueBank.Apresentacao.Cadastro.resources
+F:\BlueBank - Copia\BlueBank\obj\Debug\BlueBank.Apresentacao.Chaves.resources
+F:\BlueBank - Copia\BlueBank\obj\Debug\BlueBank.Apresentacao.ExibirChaves.resources
+F:\BlueBank - Copia\BlueBank\obj\Debug\BlueBank.Form1.resources
+F:\BlueBank - Copia\BlueBank\obj\Debug\BlueBank.Apresentacao.AreaPix.resources
+F:\BlueBank - Copia\BlueBank\obj\Debug\BlueBank.Apresentacao.Pix.resources
+F:\BlueBank - Copia\BlueBank\obj\Debug\BlueBank.Properties.Resources.resources
+F:\BlueBank - Copia\BlueBank\obj\Debug\BlueBank.csproj.GenerateResource.cache
+F:\BlueBank - Copia\BlueBank\obj\Debug\BlueBank.csproj.CoreCompileInputs.cache
+F:\BlueBank - Copia\BlueBank\obj\Debug\BlueBank.csproj.CopyComplete
+F:\BlueBank - Copia\BlueBank\obj\Debug\BlueBank.exe
+F:\BlueBank - Copia\BlueBank\obj\Debug\BlueBank.pdb
+F:\BlueBank - Copia\BlueBank\obj\Debug\BlueBank.Apresentacao.Home.resources
+F:\BlueBank - Copia\BlueBank\bin\Debug\Microsoft.Win32.Registry.xml
+F:\BlueBank - Copia\BlueBank\bin\Debug\Microsoft.Win32.Registry.AccessControl.xml
+F:\BlueBank - Copia\BlueBank\bin\Debug\Microsoft.Win32.SystemEvents.xml
+F:\BlueBank - Copia\BlueBank\bin\Debug\Newtonsoft.Json.xml
+F:\BlueBank - Copia\BlueBank\bin\Debug\RestSharp.xml
+F:\BlueBank - Copia\BlueBank\bin\Debug\System.Buffers.xml
+F:\BlueBank - Copia\BlueBank\bin\Debug\System.CodeDom.xml
+F:\BlueBank - Copia\BlueBank\bin\Debug\System.Configuration.ConfigurationManager.xml
+F:\BlueBank - Copia\BlueBank\bin\Debug\System.Data.Odbc.xml
+F:\BlueBank - Copia\BlueBank\bin\Debug\System.Data.OleDb.xml
+F:\BlueBank - Copia\BlueBank\bin\Debug\System.Data.SqlClient.xml
+F:\BlueBank - Copia\BlueBank\bin\Debug\System.Diagnostics.EventLog.xml
+F:\BlueBank - Copia\BlueBank\bin\Debug\System.Diagnostics.PerformanceCounter.xml
+F:\BlueBank - Copia\BlueBank\bin\Debug\System.Drawing.Common.xml
+F:\BlueBank - Copia\BlueBank\bin\Debug\System.IO.FileSystem.AccessControl.xml
+F:\BlueBank - Copia\BlueBank\bin\Debug\System.IO.Packaging.xml
+F:\BlueBank - Copia\BlueBank\bin\Debug\System.IO.Ports.xml
+F:\BlueBank - Copia\BlueBank\bin\Debug\System.Memory.xml
+F:\BlueBank - Copia\BlueBank\bin\Debug\System.Numerics.Vectors.xml
+F:\BlueBank - Copia\BlueBank\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+F:\BlueBank - Copia\BlueBank\bin\Debug\System.Security.AccessControl.xml
+F:\BlueBank - Copia\BlueBank\bin\Debug\System.Security.Cryptography.Cng.xml
+F:\BlueBank - Copia\BlueBank\bin\Debug\System.Security.Cryptography.Pkcs.xml
+F:\BlueBank - Copia\BlueBank\bin\Debug\System.Security.Cryptography.ProtectedData.xml
+F:\BlueBank - Copia\BlueBank\bin\Debug\System.Security.Cryptography.Xml.xml
+F:\BlueBank - Copia\BlueBank\bin\Debug\System.Security.Permissions.xml
+F:\BlueBank - Copia\BlueBank\bin\Debug\System.Security.Principal.Windows.xml
+F:\BlueBank - Copia\BlueBank\bin\Debug\System.ServiceModel.Syndication.xml
+F:\BlueBank - Copia\BlueBank\bin\Debug\System.ServiceProcess.ServiceController.xml
+F:\BlueBank - Copia\BlueBank\bin\Debug\System.Text.Encoding.CodePages.xml
+F:\BlueBank - Copia\BlueBank\bin\Debug\System.Threading.AccessControl.xml
+F:\BlueBank - Copia\BlueBank\obj\Debug\BlueBank.csproj.Fody.CopyLocal.cache
+C:\Users\lucas\Documents\Cursos\BlueBank - Copia\BlueBank\bin\Debug\BlueBank.exe.config
+C:\Users\lucas\Documents\Cursos\BlueBank - Copia\BlueBank\bin\Debug\BlueBank.exe
+C:\Users\lucas\Documents\Cursos\BlueBank - Copia\BlueBank\bin\Debug\BlueBank.pdb
+C:\Users\lucas\Documents\Cursos\BlueBank - Copia\BlueBank\bin\Debug\System.Data.SqlClient.xml
+C:\Users\lucas\Documents\Cursos\BlueBank - Copia\BlueBank\obj\Debug\BlueBank.csproj.AssemblyReference.cache
+C:\Users\lucas\Documents\Cursos\BlueBank - Copia\BlueBank\obj\Debug\BlueBank.csproj.SuggestedBindingRedirects.cache
+C:\Users\lucas\Documents\Cursos\BlueBank - Copia\BlueBank\obj\Debug\BlueBank.Apresentacao.BemVindo.resources
+C:\Users\lucas\Documents\Cursos\BlueBank - Copia\BlueBank\obj\Debug\BlueBank.Apresentacao.Cadastro.resources
+C:\Users\lucas\Documents\Cursos\BlueBank - Copia\BlueBank\obj\Debug\BlueBank.Apresentacao.Chaves.resources
+C:\Users\lucas\Documents\Cursos\BlueBank - Copia\BlueBank\obj\Debug\BlueBank.Apresentacao.ExibirChaves.resources
+C:\Users\lucas\Documents\Cursos\BlueBank - Copia\BlueBank\obj\Debug\BlueBank.Form1.resources
+C:\Users\lucas\Documents\Cursos\BlueBank - Copia\BlueBank\obj\Debug\BlueBank.Apresentacao.AreaPix.resources
+C:\Users\lucas\Documents\Cursos\BlueBank - Copia\BlueBank\obj\Debug\BlueBank.Apresentacao.Home.resources
+C:\Users\lucas\Documents\Cursos\BlueBank - Copia\BlueBank\obj\Debug\BlueBank.Apresentacao.Pix.resources
+C:\Users\lucas\Documents\Cursos\BlueBank - Copia\BlueBank\obj\Debug\BlueBank.Properties.Resources.resources
+C:\Users\lucas\Documents\Cursos\BlueBank - Copia\BlueBank\obj\Debug\BlueBank.csproj.GenerateResource.cache
+C:\Users\lucas\Documents\Cursos\BlueBank - Copia\BlueBank\obj\Debug\BlueBank.csproj.CoreCompileInputs.cache
+C:\Users\lucas\Documents\Cursos\BlueBank - Copia\BlueBank\obj\Debug\BlueBank.csproj.CopyComplete
+C:\Users\lucas\Documents\Cursos\BlueBank - Copia\BlueBank\obj\Debug\BlueBank.exe
+C:\Users\lucas\Documents\Cursos\BlueBank - Copia\BlueBank\obj\Debug\BlueBank.pdb
+C:\Users\lucas\Documents\Cursos\BlueBank - Copia\BlueBank\bin\Debug\FontAwesome.Sharp.dll
+C:\Users\lucas\Documents\Cursos\BlueBank - Copia\BlueBank\bin\Debug\System.Data.SqlClient.dll
+C:\Users\lucas\Documents\Cursos\BlueBank - Copia\BlueBank\obj\Debug\BlueBank.Apresentacao.ExtratoPix.resources
+C:\Users\lucas\Documents\BlueBank - Copia\BlueBank\bin\Debug\FontAwesome.Sharp.dll
+C:\Users\lucas\Documents\BlueBank - Copia\BlueBank\bin\Debug\System.Data.SqlClient.dll
+C:\Users\lucas\Documents\BlueBank - Copia\BlueBank\bin\Debug\System.Data.SqlClient.xml
+C:\Users\lucas\Documents\BlueBank - Copia\BlueBank\obj\Debug\BlueBank.Apresentacao.ExtratoPix.resources
+C:\Users\lucas\Documents\BlueBank - Copia\BlueBank\obj\Debug\BlueBank.Apresentacao.Home.resources
+C:\Users\lucas\Documents\BlueBank - Copia\BlueBank\obj\Debug\BlueBank.csproj.CopyComplete
