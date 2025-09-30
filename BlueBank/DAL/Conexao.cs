@@ -12,7 +12,7 @@ namespace BlueBank.DAL
         SqlConnection conn = new SqlConnection();
         public Conexao() 
         { 
-            conn.ConnectionString = @"Data Source=DESKTOP-O0ACRA3\SQLEXPRESS;Initial Catalog=BlueBank;Integrated Security=True";
+            conn.ConnectionString = @"";
         }
 
         public SqlConnection Conectar()
